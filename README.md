@@ -2,9 +2,9 @@
 
 ## Objective
 
-Get and convert attribute values from [kafkajs](https://kafka.js.org) message header. To do that, use the respective data type method as follows.
+Get and convert attribute values from [kafkajs](https://kafka.js.org) message header. Use respective data type method as follows.
 
-### Assuming that message body looks like the follows:
+### Assuming that message body looks like:
 
 ```javascript
 // sample of message
@@ -59,7 +59,7 @@ console.log(date2);
 > ### REPOSITORY
 
 ```https
-https://github.com/eviccari/simple-http-exceptions
+https://github.com/eviccari/kafkajs-get-headers
 ```
 
 &nbsp;
