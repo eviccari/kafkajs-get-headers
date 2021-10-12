@@ -14,6 +14,10 @@
   ],
   "author": "Eduardo Paixao Viccari",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eviccari/kafkajs-get-headers"
+  },
   "devDependencies": {
     "prettier": "^2.4.1"
   }
