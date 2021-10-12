@@ -1,0 +1,20 @@
+{
+  "name": "kafkajs-get-headers",
+  "version": "0.0.1",
+  "description": "Get data from KafkaJS message headers and convert the values",
+  "main": "kafka-get-headers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "kafka",
+    "kafkajs",
+    "headers"
+  ],
+  "author": "Eduardo Paixao Viccari",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
