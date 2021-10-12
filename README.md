@@ -59,7 +59,7 @@ console.log(date2);
 > ### REPOSITORY
 
 ```https
-https://github.com/eviccari/simple-http-exceptions
+https://github.com/eviccari/kafkajs-get-headers
 ```
 
 &nbsp;
